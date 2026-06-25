@@ -71,3 +71,9 @@ En este repositorio encontraras un archivo **creadirectorio.bat** para facilitar
 		\K8sWorked01	
 			\VirtualDisk
 ```
+
+---
+Mario Fribla
+
+**Ingeniero en 
+Computación Informatica**
