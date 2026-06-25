@@ -75,5 +75,4 @@ En este repositorio encontraras un archivo **creadirectorio.bat** para facilitar
 ---
 Mario Fribla
 
-**Ingeniero en 
-Computación Informatica**
+***Ingeniero en Computación Informatica***
